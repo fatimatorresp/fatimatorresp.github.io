@@ -1,0 +1,12 @@
+.boton-ingresar{
+    background-color: blue;
+    color: white;
+  }
+  
+  .boton-ingresar:hover{
+    background-color: green;
+    color: black;
+    font-size: 30px;
+  }
+  
+ 
